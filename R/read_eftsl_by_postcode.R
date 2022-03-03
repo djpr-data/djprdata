@@ -12,7 +12,8 @@ read_eftsl_by_postcode <- function(path = tempdir(), delete = TRUE) {
 # https://www.dese.gov.au/higher-education-statistics/resources/higher-education-data-request-form
 
 
-
+# there are data publicly available, but only by university, not by postcode:
+# https://www.dese.gov.au/higher-education-statistics/resources/student-load-pivot-table
 
 
 }
