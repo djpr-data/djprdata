@@ -8,6 +8,8 @@
 
 read_eftsl_by_postcode <- function(path = tempdir(), delete = TRUE) {
 
+message("Data on equivalent full-time student load by postcode is not publicly available")
+
 # data is not publicly available, but we may be able to request access via:
 # https://www.dese.gov.au/higher-education-statistics/resources/higher-education-data-request-form
 
