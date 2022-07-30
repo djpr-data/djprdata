@@ -1,6 +1,8 @@
 
 
-#' @title School Enrollments for Victoria
+#' @title School Enrolments for Victoria
+#'
+#' @importFrom ckanr ckanr_setup package_search
 #'
 #' @importFrom ckanr ckanr_setup package_search
 #' @importFrom dplyr mutate select rename_all

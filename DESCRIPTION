@@ -26,7 +26,13 @@ Imports:
     readxl,
     rvest,
     stringr,
-    tidyr
+    tidyr,
+    ckanr,
+    janitor,
+    zip,
+    fs,
+    openxlsx,
+    readr
 Suggests: 
     covr,
     knitr,
